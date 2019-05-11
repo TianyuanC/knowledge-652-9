@@ -2,9 +2,10 @@
 
 In this webinar, I will cover the following topics:
 
--   Google I/O news
--   React-Redux alpha release updates
+-   V8 News on Google I/O
+-   React-Redux alpha release feedbacks
 -   Redux action asynchronicity
+-   Web Components (again? 🙊)
 
 They are tentative topics, the real subjects will be decided during this week's one-on-one sessions.
 
