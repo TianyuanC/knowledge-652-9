@@ -13,4 +13,4 @@ They are tentative topics, the real subjects will be decided during this week's 
 
 [Slides](https://tianyuanc.github.io/knowledge-652-9)
 
-[Video]()
+[Video](https://tianyuanc.github.io/knowledge-652-9/#5)
